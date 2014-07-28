@@ -1,0 +1,10 @@
+Verified+2: Jenkins
+Code-Review+2: Ghe Rivero <ghe.rivero@gmail.com>
+Workflow+1: Derek Higgins <derekh@redhat.com>
+Code-Review+2: lifeless <robertc@robertcollins.net>
+Code-Review+2: Chris Jones <cmsj@tenshu.net>
+Submitted-by: Jenkins
+Submitted-at: Mon, 28 Jul 2014 09:02:51 +0000
+Reviewed-on: https://review.openstack.org/105462
+Project: openstack/dib-utils
+Branch: refs/heads/master
