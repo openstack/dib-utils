@@ -1,0 +1,11 @@
+Verified+2: Jenkins
+Code-Review+2: Ghe Rivero <ghe@rivero.io>
+Code-Review+2: Clint 'SpamapS' Byrum <clint@ubuntu.com>
+Code-Review+2: Jay Dobies <jason.dobies@redhat.com>
+Code-Review+2: Alexis Lee <lxsli@hp.com>
+Workflow+1: Alexis Lee <lxsli@hp.com>
+Submitted-by: Jenkins
+Submitted-at: Thu, 28 Aug 2014 14:56:50 +0000
+Reviewed-on: https://review.openstack.org/109527
+Project: openstack/dib-utils
+Branch: refs/heads/master
