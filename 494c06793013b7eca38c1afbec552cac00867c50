@@ -1,0 +1,12 @@
+Verified+2: Jenkins
+Code-Review+1: Ghe Rivero <ghe.rivero@gmail.com>
+Code-Review+2: Chris Jones <cmsj@tenshu.net>
+Workflow+1: Chris Jones <cmsj@tenshu.net>
+Code-Review+2: James Slagle <jslagle@redhat.com>
+Code-Review+1: James Polley <jp@jamezpolley.com>
+Code-Review+1: Motohiro 'Yuanying' Otsuka <ootsuka@mxs.nes.nec.co.jp>
+Submitted-by: Jenkins
+Submitted-at: Mon, 29 Sep 2014 10:23:38 +0000
+Reviewed-on: https://review.openstack.org/109530
+Project: openstack/dib-utils
+Branch: refs/heads/master
