@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Workflow+1: Clint 'SpamapS' Byrum <clint@fewbar.com>
+Code-Review+2: Jay Dobies <jason.dobies@redhat.com>
+Code-Review+2: James Polley <jp@jamezpolley.com>
+Submitted-by: Jenkins
+Submitted-at: Thu, 26 Feb 2015 06:37:10 +0000
+Reviewed-on: https://review.openstack.org/152789
+Project: openstack/dib-utils
+Branch: refs/heads/master
