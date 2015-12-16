@@ -1,0 +1,13 @@
+Verified+2: Jenkins
+Code-Review+2: Ghe Rivero <ghe.rivero@gmail.com>
+Code-Review+1: Jin Nan Zhang <zhang.jinnan@99cloud.net>
+Code-Review+2: Clint 'SpamapS' Byrum <clint@fewbar.com>
+Workflow+1: Clint 'SpamapS' Byrum <clint@fewbar.com>
+Code-Review+1: Dmitry Tantsur <divius.inside@gmail.com>
+Code-Review+1: Martin André <m.andre@redhat.com>
+Code-Review+1: venkatamahesh <venkatamaheshkotha@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Wed, 16 Dec 2015 01:43:01 +0000
+Reviewed-on: https://review.openstack.org/256769
+Project: openstack/dib-utils
+Branch: refs/heads/master
