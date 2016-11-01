@@ -1,0 +1,10 @@
+Code-Review+1: Markos Chandras <mchandras@suse.de>
+Code-Review+1: ShangXiao <shangxiaobj@inspur.com>
+Code-Review+2: greghaynes <greg@greghaynes.net>
+Workflow+1: Ian Wienand <iwienand@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 01 Nov 2016 01:45:00 +0000
+Reviewed-on: https://review.openstack.org/388968
+Project: openstack/dib-utils
+Branch: refs/heads/master
