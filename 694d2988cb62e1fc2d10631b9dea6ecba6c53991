@@ -1,0 +1,8 @@
+Code-Review+2: Ben Nemec <openstack@nemebean.com>
+Workflow+1: Juan Antonio Osorio Robles <jaosorior@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 06 Mar 2017 18:55:48 +0000
+Reviewed-on: https://review.openstack.org/403190
+Project: openstack/dib-utils
+Branch: refs/heads/master
