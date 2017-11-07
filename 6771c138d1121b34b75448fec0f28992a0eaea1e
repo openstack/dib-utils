@@ -1,0 +1,9 @@
+Code-Review+2: yolanda.robla <yroblamo@redhat.com>
+Code-Review+2: Ian Wienand <iwienand@redhat.com>
+Workflow+1: Ian Wienand <iwienand@redhat.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 07 Nov 2017 05:11:54 +0000
+Reviewed-on: https://review.openstack.org/517763
+Project: openstack/dib-utils
+Branch: refs/heads/master
