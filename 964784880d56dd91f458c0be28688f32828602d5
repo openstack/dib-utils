@@ -1,0 +1,10 @@
+Code-Review+1: Harry Rybacki <hrybacki@redhat.com>
+Code-Review+1: wes hayutin <weshayutin@gmail.com>
+Code-Review+2: Paul Belanger <pabelanger@redhat.com>
+Workflow+1: Paul Belanger <pabelanger@redhat.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 23 Jan 2018 15:52:31 +0000
+Reviewed-on: https://review.openstack.org/536499
+Project: openstack/dib-utils
+Branch: refs/heads/master
