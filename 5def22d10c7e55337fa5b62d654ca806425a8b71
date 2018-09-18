@@ -1,0 +1,9 @@
+Code-Review+1: wu.chunyang <wu.chunyang@99cloud.net>
+Code-Review+2: Alex Schultz <aschultz@redhat.com>
+Workflow+1: Alex Schultz <aschultz@redhat.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 18 Sep 2018 17:00:45 +0000
+Reviewed-on: https://review.openstack.org/596024
+Project: openstack/dib-utils
+Branch: refs/heads/master
