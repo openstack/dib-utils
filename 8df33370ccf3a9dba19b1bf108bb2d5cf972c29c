@@ -1,0 +1,10 @@
+Verified+1: RDO Third Party CI <dmsimard+rdothirdparty@redhat.com>
+Code-Review+1: David Peacock <david.j.peacock@gmail.com>
+Code-Review+2: Alex Schultz <aschultz@redhat.com>
+Workflow+1: Alex Schultz <aschultz@redhat.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Fri, 12 Oct 2018 16:13:45 +0000
+Reviewed-on: https://review.openstack.org/607715
+Project: openstack/dib-utils
+Branch: refs/heads/master
